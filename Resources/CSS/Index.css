@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.title{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    position: absolute;
+    width: 100%;
+    text-align: center; 
+
+}
+
+header img{
+    height: 100px;
+    width: 100%;
+    object-fit: cover; 
+}
+
+.brush{
+    width: 100%;
+    background-color: green;
+}
+.blue-text{
+    color: bisque;
+}
